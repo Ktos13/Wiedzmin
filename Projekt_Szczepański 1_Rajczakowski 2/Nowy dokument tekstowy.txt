@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+   <title>Wiedümin Wiki.com</title>
+<link rel="stylesheet" type="text/css" href="main.css">
+     <link rel="Shortcut icon" href="ikona nag≥Ûwka\favicon.ico" />
+</head>
+<body>
+</body>
+ <nav>
+    <p><img src="Ikony\nice.png" alt="nice"></p>
+    <ul>
+      <li><a href="index.html">Strona g≥owna</a></li>
+      <li><a href="#">Uniwersum</a>
+          <ul>
+              <li><a href="#">Mapa úwiata</a><li>
+              <li><a href="#">Ciekawostki</a><li>
+          </ul>
+      </li>
+      <li><a href="#">Bestiariusz</a>
+           <ul>
+              <li><a href="#">Gryf</a><li>
+              <li><a href="#">Sukkub</a><li>
+              <li><a href="#">Wampir Wyøszy</a><li>
+              <li><a href="#">Wilko≥ak</a><li>
+              <li><a href="#">Czort</a><li>
+           </ul>
+      </li>
+      <li><a href="#">Postacie</a>
+           <ul>
+              <li><a href="#">Geralt</a><li>
+              <li><a href="#">Triss</a><li>
+              <li><a href="#">Yenefer</a><li>
+              <li><a href="#">Ciri</a><li>
+              <li><a href="#">Vesemir</a><li>
+           </ul>
+      </li>
+      <li><a href="#">Lokacje</a>
+            <ul>
+              <li><a href="#">Skellige</a><li>
+              <li><a href="#">Novigrad</a><li>
+              <li><a href="#">Wyzima</a><li>
+              <li><a href="#">Kaer Morhen</a><li>
+              <li><a href="#">Velen</a><li>
+           </ul>
+      </li>
+   </ul> 
+</nav>

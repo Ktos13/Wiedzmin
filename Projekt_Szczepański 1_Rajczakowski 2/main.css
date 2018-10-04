@@ -34,7 +34,8 @@ text-decoration:none;
 nav ul li ul{ 
 display: none;
 position:absolute;
-background-color:#525252
+background-color:#525252;
+padding:10 px;
 }
 nav ul li:hover ul{ 
 display: block;
@@ -49,11 +50,18 @@ float:left;
 padding:0px 20px;
 }
 .przesuniecie{
-	position: relative; left: 350px; top: 200px.;bottom: -300px;
+	position: relative; left: 350px; top: 275px;
 }
 nav ul li ul li  {
 width:110px;
 }
 nav ul li ul li a:hover {
 background-color:#1aa294
+}
+h1{font-size:24px;
+background-color:#525252;
+position:relative;top:150px;
+}
+.dosrodka{
+      position:relative;left: 600px;top:400;
 }
